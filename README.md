@@ -1,4 +1,4 @@
-<img width="975" height="233" alt="image" src="https://github.com/user-attachments/assets/07b6a80e-d0c7-408f-acd5-9c4b97f44dde" /># Deep Learning Applications: Medical Image Classification & Sentiment Analysis
+# Deep Learning Applications: Medical Image Classification & Sentiment Analysis
 
 ## 1. Introduction
 
