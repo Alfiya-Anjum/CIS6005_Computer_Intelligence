@@ -67,7 +67,8 @@ The objective is to evaluate different neural network architectures and compare 
 
 ### 3.2 Sentiment Analysis
 
-#### 🔹 Model 1: Feedforward Neural Network
+#### 🔹 Model 1: Feedforward Neural Network<img width="967" height="1231" alt="image" src="https://github.com/user-attachments/assets/8d6f4c2b-cebc-48bd-9724-605d2e57d9cc" />
+
 - Embedding layer (128 dimensions)
 - Flatten + 2 dense layers (ReLU)
 - Final activation: **Sigmoid**
